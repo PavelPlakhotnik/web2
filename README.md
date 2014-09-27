@@ -7,5 +7,4 @@ Contributors guide
 
 Just for the repo and send me a pull request.
 
-My change
-=========
+Add more text
